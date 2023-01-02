@@ -13,3 +13,6 @@ as #6companies30days #revisewitharsh and willing to finish this successfully.Tha
  
  🌟 Special 1 on 1 mentoring session on how to plan the things after this challenge - related to projects, revision, CS Fundamentals, Interview Tips, etc.
 
+
+
+Question Sheet Link:https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZWP4kY*-XvDvO9jEsgrmvHn8g50Kw#
