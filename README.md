@@ -12,3 +12,6 @@ Perks:
 🌟 A special surprise gift for top performers.
 
 🌟 Special 1 on 1 mentoring session on how to plan the things after this challenge - related to projects, revision, CS Fundamentals, Interview Tips, etc.
+
+
+Question Sheet Link:https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit
